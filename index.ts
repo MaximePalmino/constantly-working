@@ -1,5 +1,6 @@
 const robot = require("robotjs");
 
+
 robot.setMouseDelay(2);
 
 const twoPI = Math.PI * 2.0;
